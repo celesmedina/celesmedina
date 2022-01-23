@@ -19,12 +19,12 @@
 
 ## :pushpin: My projects
 
-### ✔️ Countries App
+### 🌎Countries App
 
 <p>
-  ✔️Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. All the components were developed with CSS without the use of external libraries.
-  ✔️Some features of the project: Cache of searches, orders and filters, controlled form for creation of turistic activities.
-  ✔️The SPA consumes data from an API (“Countries”) through a Back End developed in Node.JS using Express, adding new functionalities to the original API.
+  ✔️Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. All the components were developed with CSS without the use of external libraries.</p>
+  <p>✔️Some features of the project: Cache of searches, orders and filters, controlled form for creation of turistic activities.</p>
+  <p>✔️The SPA consumes data from an API (“Countries”) through a Back End developed in Node.JS using Express, adding new functionalities to the original API.
 
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
 </p>
