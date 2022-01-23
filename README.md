@@ -26,9 +26,10 @@
   <p>✔️Some features of the project: Cache of searches, orders and filters, controlled form for creation of turistic activities.</p>
   <p>✔️The SPA consumes data from an API (“Countries”) through a Back End developed in Node.JS using Express, adding new functionalities to the original API.
 
-<img width="1677" alt="countriesapp" src="https://user-images.githubusercontent.com/28275509/150687902-afdc4698-f64d-411f-990b-641d0c64d2cc.png">
+  <img width="1675" alt="countriesapp3" src="https://user-images.githubusercontent.com/28275509/150687908-8059e3aa-b3a2-4efa-a5ff-2c2240289f6e.png">
 <img width="1664" alt="countriesapp2" src="https://user-images.githubusercontent.com/28275509/150687907-20838a0f-2112-489c-90e6-efecda73025c.png">
-<img width="1675" alt="countriesapp3" src="https://user-images.githubusercontent.com/28275509/150687908-8059e3aa-b3a2-4efa-a5ff-2c2240289f6e.png">
+
+<img width="1677" alt="countriesapp" src="https://user-images.githubusercontent.com/28275509/150687902-afdc4698-f64d-411f-990b-641d0c64d2cc.png">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celesmedina&show_icons=true&locale=en&layout=compact" alt="celesmedina" /></p>
 
