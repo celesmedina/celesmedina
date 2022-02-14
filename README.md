@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celesmedina&label=Profile%20views&color=0e75b6&style=flat" alt="celesmedina" /> </p>
 
-- 🔭 I’m currently working on **the final project of Henry's Coding Bootcamp and looking for my first job as developer**
+- 🔭 I just finished  **the final project of Henry's Coding Bootcamp and looking for my first job as developer**
 
 - 📫 How to reach me **maria.celeste.medina.maiuri@gmail.com**
 
 - ⚡ Fun fact **I'm a former ed-tech entrepreneur that created the first coding bootcamp for women in Argentina**
 
-- 📓 Currently learning **Typescript**
+- 📓 Currently learning **Typescript, Next, GraphQL** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
