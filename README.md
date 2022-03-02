@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celesmedina&label=Profile%20views&color=0e75b6&style=flat" alt="celesmedina" /> </p>
 
-- 🔭 I just finished  **the final project of Henry's Coding Bootcamp and looking for my first job as developer**
+- 🔭 I'm currently working as **Software Engineer at Nicasource**
 
 - 📫 How to reach me **maria.celeste.medina.maiuri@gmail.com**
 
